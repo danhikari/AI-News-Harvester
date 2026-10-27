@@ -31,3 +31,14 @@ News publisher / RSS feed
      Website display
 
 ```
+
+### Difficulties:
+
+| **Verification criterion **  | **How to assess it**                                                   |
+| Source identity               | Is the original publisher identifiable?                               |
+| Primary evidence              | Is there an incident report, official statement or technical finding? |
+| Independent corroboration     | Do independent sources report the same facts?                         |
+| Publication date              | When was the information published or updated?                        |
+| Factual consistency           | Do sources agree on the important details?                            |
+| Uncertainty                   | Which claims remain unverified or disputed?                           |
+
