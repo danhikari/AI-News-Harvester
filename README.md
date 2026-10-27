@@ -34,7 +34,7 @@ News publisher / RSS feed
 
 ### Difficulties:
 
-| **Verification criterion      | How to assess it**                                                    |
+| Verification criterion        | How to assess it                                                      |
 |-------------------------------|-----------------------------------------------------------------------|
 | Source identity               | Is the original publisher identifiable?                               |
 | Primary evidence              | Is there an incident report, official statement or technical finding? |
