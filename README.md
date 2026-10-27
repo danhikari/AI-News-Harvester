@@ -4,6 +4,7 @@ An interactive python website project that aims to scrape news related to AI; fr
 
 ### Possible Plan
 
+```
 News publisher / RSS feed
           |
           v
@@ -28,3 +29,5 @@ News publisher / RSS feed
           |
           v
      Website display
+
+```
